@@ -8,10 +8,10 @@
 3Colorado Mesa Univ., CO 81501, Colorado, United states.
 4Fédération de Savoie pour la Pêche et la Protection du Milieu Aquatique (FDPPMA 73), 73230 Saint-Alban-Leysse, France
 5Office Français pour la Biodiversité, Unité Spécialisée Milieux Lacustres, 74200 Thonon-les-Bains, France.
-6INRAE, Aix Marseille Univ., UMR RECOVER, 13182 Aix-en-Provence, France.\
+6INRAE, Aix Marseille Univ., UMR RECOVER, 13182 Aix-en-Provence, France.
 \
 
- This repository is composed of 6 elements: \
+ This repository is composed of 6 elements: 
     - cv_Functions_Stability_Salmonid_Stocked_Lakes: the functions used in the framework of the Figure 1 \
     - Param_reginvert.Rdata : quantile regressions required to compute niche boundaries of invertebrate consumers (from the aNM; Vagnon et al. 2021) \
     - Param_regvert.Rdata :  quantile regressions required to compute niche boundaries of vertebrate consumers (from the aNM; Vagnon et al. 2021) \
