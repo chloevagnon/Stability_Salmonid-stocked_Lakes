@@ -1,15 +1,14 @@
 # Stability_Salmonid-stocked_Lakes
  This repository is the repository for the article: 
  Changes in vertical and horizontal diversities mediated by the size structure of introduced fish collectively shape food-web stability \
- Chloé VAGNON1,2, Justin POMERANZ3, Bertrand LOHEAC4, Manuel VALLAT4, Jean GUILLARD1,2, Jean-Claude RAYMOND2,5, Arnaud SENTIS2,6, Victor FROSSARD1,2\
+ Chloé VAGNON1,2, Justin POMERANZ3, Bertrand LOHEAC4, Manuel VALLAT4, Jean GUILLARD1,2, Jean-Claude RAYMOND2,5, Arnaud SENTIS2,6, Victor FROSSARD1,2
 
-1Univ. Savoie Mont Blanc, INRAE, UMR CARRTEL, 74200 Thonon-les-Bains, France.
-2Pôle R&D Ecosystèmes Lacustres (ECLA), OFB-INRAE-USMB, 13182 Aix-en-Provence, France. 
-3Colorado Mesa Univ., CO 81501, Colorado, United states.
-4Fédération de Savoie pour la Pêche et la Protection du Milieu Aquatique (FDPPMA 73), 73230 Saint-Alban-Leysse, France
-5Office Français pour la Biodiversité, Unité Spécialisée Milieux Lacustres, 74200 Thonon-les-Bains, France.
+1Univ. Savoie Mont Blanc, INRAE, UMR CARRTEL, 74200 Thonon-les-Bains, France.\
+2Pôle R&D Ecosystèmes Lacustres (ECLA), OFB-INRAE-USMB, 13182 Aix-en-Provence, France. \
+3Colorado Mesa Univ., CO 81501, Colorado, United states.\
+4Fédération de Savoie pour la Pêche et la Protection du Milieu Aquatique (FDPPMA 73), 73230 Saint-Alban-Leysse, France\
+5Office Français pour la Biodiversité, Unité Spécialisée Milieux Lacustres, 74200 Thonon-les-Bains, France.\
 6INRAE, Aix Marseille Univ., UMR RECOVER, 13182 Aix-en-Provence, France.
-\
 
  This repository is composed of 6 elements: 
     - cv_Functions_Stability_Salmonid_Stocked_Lakes: the functions used in the framework of the Figure 1 \
@@ -26,6 +25,7 @@ In datasets, the clumn "Category" corresponds to the category of the studied nod
 \
 \
 \
+Literature cited: 
 Vagnon, C., Cattanéo, F., Goulon, C., Grimardias, D., Guillard, J. et al. (2021). An allometric niche model for species interactions in temperate freshwater ecosystems. Ecosphere, 12, e03420.
 
 
