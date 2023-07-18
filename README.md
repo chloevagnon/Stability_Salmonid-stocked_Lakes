@@ -19,7 +19,10 @@
     - Test_Data: a test dataset to apply quickly the different functions and understand how can be computed stability \
     - BigData: the whole dataset of the 195 nodes included in the metaweb of the article.\
 \
-In datasets, the clumn "Category" corresponds to the category of the studied node (can be fish, invertebrate, zooplankton, producer,...), "Type" is similar, "Organism" is the type of organism (here identified at the family, genus or species), "BodySize" is the total mean body length for the node expressed in micrometer, "Trophy" is the diet type of the node, "Name" is the name of the node, "Density" is the density of the node in the corresponding lake for which the unit is different depending on the category of the node (See the method in the article for more details).
+In "Test_Data.Rdata", the column "Lake_name" is the name of the sampling site, "Phylum" is the phylum corresponding to the node, "Category" corresponds to the category of the studied node (can be fish, invertebrate, zooplankton, producer),"Node" is the name of the node, "Trophy" is the diet type of the node,"BodySize" is the total mean body length for the node expressed in micrometer,"Density" is the density of the node in the corresponding lake for which the unit is different depending on the category of the node (See the method in the article for more details). \
+\
+In "BigData.Rdata", the column"Category" corresponds to the category of the studied node (can be fish, invertebrate, zooplankton, producer,...), "Type" is similar, "Organism" is the type of organism (here identified at the family, genus or species), "BodySize" is the total mean body length for the node expressed in micrometer, "Trophy" is the diet type of the node, "Name" is the name of the node. \
+
 \
  For any further information, please contact chloe.vagnon@gmail.com
 \
